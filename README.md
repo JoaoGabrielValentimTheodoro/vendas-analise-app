@@ -1,0 +1,1 @@
+# vendas-analise-app

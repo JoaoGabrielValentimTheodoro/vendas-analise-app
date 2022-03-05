@@ -1,0 +1,27 @@
+                                  Quantidade
+ID Loja                                     
+Bourbon Shopping SP                     8863
+Center Shopping Uberlândia              8627
+Iguatemi Campinas                       8935
+Iguatemi Esplanada                      8580
+Norte Shopping                          9014
+Novo Shopping Ribeirão Preto            8751
+Palladium Shopping Curitiba             9091
+Parque Dom Pedro Shopping               8388
+Passei das Águas Shopping               8618
+Ribeirão Shopping                       8825
+Rio Mar Recife                          8863
+Rio Mar Shopping Fortaleza              8937
+Salvador Shopping                       8698
+Shopping Barra                          8638
+Shopping Center Interlagos              8675
+Shopping Center Leste Aricanduva        8938
+Shopping Eldorado                       8719
+Shopping Ibirapuera                     8723
+Shopping Iguatemi Fortaleza             8629
+Shopping Midway Mall                    8206
+Shopping Morumbi                        8508
+Shopping Recife                         8581
+Shopping SP Market                      8927
+Shopping União de Osasco                8730
+Shopping Vila Velha                     9224
